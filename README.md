@@ -1,4 +1,4 @@
-# E-commerce Front-End Interface (Amazon Clone)
+# E-commerce Front-End Interface (Shopkart Clone)
 
 A responsive front-end clone of the Amazon e-commerce website built using HTML and CSS.
 
